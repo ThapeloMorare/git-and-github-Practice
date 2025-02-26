@@ -14,8 +14,11 @@ public class CodeWithMosh {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hello World");
+        // TODO code application logic here 
+        int myAge = 30293;
+        int herAge = myAge;
+        float price = 20_555.44f;
+        System.out.println(price);
     }
     
 }
