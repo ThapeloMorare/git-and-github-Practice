@@ -18,7 +18,9 @@ public class CodeWithMosh {
         int myAge = 30293;
         int herAge = myAge;
         float price = 20_555.44f;
-        System.out.println(price);
+        char letter = 'A';
+        boolean isEligable = false;
+        System.out.println(price);      
     }
     
 }
