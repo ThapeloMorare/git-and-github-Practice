@@ -18,10 +18,11 @@ public class CodeWithMosh {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Point pointOne = new Point(1, 1);
-        Point point2 = pointOne;
-        pointOne.x = 5; 
-        System.out.println(pointOne);
+        //String message = new String("Hello World");
+        //String Literal
+        String message = "Hello World";
+        System.out.println(message.replace("l", "LL"));
+        //System.out.println("Hello World");
     }
     
 }
